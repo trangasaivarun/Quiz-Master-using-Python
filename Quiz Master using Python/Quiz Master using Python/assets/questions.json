@@ -1,0 +1,335 @@
+[
+    {
+        "question": "What is the correct file extension for Python files?",
+        "options": ["A. .py", "B. .python", "C. .p", "D. .txt"],
+        "answer": "A. .py",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which of the following is a built-in data type in Python?",
+        "options": ["A. List", "B. Dictionary", "C. Set", "D. All of the above"],
+        "answer": "D. All of the above",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which keyword is used to create a function in Python?",
+        "options": ["A. function", "B. def", "C. create", "D. func"],
+        "answer": "B. def",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which of the following is used to comment in Python?",
+        "options": ["A. //", "B. #", "C. /*", "D. <!--"],
+        "answer": "B. #",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What will be the output of the following code: print(type([]))?",
+        "options": ["A. list", "B. dict", "C. tuple", "D. set"],
+        "answer": "A. list",
+        "difficulty": "easy"
+    },
+    {
+        "question": "How do you create a list in Python?",
+        "options": ["A. list()", "B. []", "C. list[]", "D. All of the above"],
+        "answer": "B. []",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which statement is used to exit a loop in Python?",
+        "options": ["A. exit", "B. break", "C. stop", "D. quit"],
+        "answer": "B. break",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What does the 'len()' function do in Python?",
+        "options": ["A. Returns the length of an object", "B. Creates a list", "C. Converts a string to a list", "D. None of the above"],
+        "answer": "A. Returns the length of an object",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the output of the following code: print(10 % 3)?",
+        "options": ["A. 3", "B. 1", "C. 0", "D. 10"],
+        "answer": "B. 1",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which method is used to add an item to a list in Python?",
+        "options": ["A. add()", "B. append()", "C. insert()", "D. extend()"],
+        "answer": "B. append()",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the output of print(5 > 3)?",
+        "options": ["A. True", "B. False", "C. 1", "D. 0"],
+        "answer": "A. True",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What will be the output of the following code: print('Hello'[1])?",
+        "options": ["A. H", "B. e", "C. l", "D. o"],
+        "answer": "B. e",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which of the following is not a valid variable name in Python?",
+        "options": ["A. myVar", "B. my_var", "C. 1stVar", "D. myVar2"],
+        "answer": "C. 1stVar",
+        "difficulty": "easy"
+    },
+    {
+        "question": "How do you define a constant in Python?",
+        "options": ["A. const", "B. uppercase variable name", "C. final", "D. constant"],
+        "answer": "B. uppercase variable name",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the output of the following code: print('Python' + '3')?",
+        "options": ["A. Python3", "B. Python 3", "C. Python+3", "D. Error"],
+        "answer": "A. Python3",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What does the 'input()' function do?",
+        "options": ["A. Takes input from the user", "B. Outputs data", "C. Converts data types", "D. None of the above"],
+        "answer": "A. Takes input from the user",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which symbol is used for list slicing in Python?",
+        "options": ["A. []", "B. ()", "C. {}", "D. <>"],
+        "answer": "A. []",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What type of loop is the 'for' loop in Python?",
+        "options": ["A. Infinite loop", "B. Conditional loop", "C. Iterative loop", "D. Nested loop"],
+        "answer": "C. Iterative loop",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What does the 'isinstance()' function check?",
+        "options": ["A. Checks if an object is an instance of a class", "B. Checks if a variable is defined", "C. Checks the type of an object", "D. None of the above"],
+        "answer": "A. Checks if an object is an instance of a class",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the output of the following code: print('123' * 2)?",
+        "options": ["A. 123123", "B. 246", "C. 123", "D. Error"],
+        "answer": "A. 123123",
+        "difficulty": "easy"
+    },
+    {
+        "question": "How do you create a dictionary in Python?",
+        "options": ["A. dict()", "B. {}", "C. []", "D. All of the above"],
+        "answer": "B. {}",
+        "difficulty": "easy"
+    },
+
+    {
+        "question": "What will be the output of the following code: print(2 ** 3)?",
+        "options": ["A. 6", "B. 8", "C. 9", "D. 5"],
+        "answer": "B. 8",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the purpose of the 'self' parameter in class methods?",
+        "options": ["A. To refer to the current instance of the class", "B. To create a static method", "C. To access the class variable", "D. To define a class method"],
+        "answer": "A. To refer to the current instance of the class",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the output of the following code: print(10 // 3)?",
+        "options": ["A. 3.33", "B. 3", "C. 4", "D. 3.0"],
+        "answer": "B. 3",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which of the following is not a valid way to create a dictionary?",
+        "options": ["A. dict()", "B. {}", "C. []", "D. {'key': 'value'}"],
+        "answer": "C. []",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What will the following code print: print('Python' in 'Python programming')?",
+        "options": ["A. True", "B. False", "C. Error", "D. None"],
+        "answer": "A. True",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which function is used to read a file in Python?",
+        "options": ["A. open()", "B. read()", "C. input()", "D. file()"],
+        "answer": "A. open()",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the purpose of the 'return' statement in a function?",
+        "options": ["A. To exit the function", "B. To return a value", "C. To print a value", "D. Both A and B"],
+        "answer": "D. Both A and B",
+        "difficulty": "medium"
+    },
+    {
+        "question": "How do you handle exceptions in Python?",
+        "options": ["A. try/except", "B. catch/throw", "C. handle", "D. ignore"],
+        "answer": "A. try/except",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What will be the output of print('Hello' + str(5))?",
+        "options": ["A. Hello5", "B. Hello 5", "C. 5Hello", "D. Error"],
+        "answer": "A. Hello5",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which of the following methods can be used to convert a string to an integer in Python?",
+        "options": ["A. str()", "B. int()", "C. float()", "D. convert()"],
+        "answer": "B. int()",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the purpose of the 'pass' statement?",
+        "options": ["A. To define an empty block", "B. To exit a function", "C. To stop execution", "D. To skip an iteration"],
+        "answer": "A. To define an empty block",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What will the output of print([1, 2, 3] + [4, 5]) be?",
+        "options": ["A. [1, 2, 3, 4, 5]", "B. [1, 2, 3, 4]", "C. [5, 4, 3, 2, 1]", "D. Error"],
+        "answer": "A. [1, 2, 3, 4, 5]",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which function is used to get the maximum value from a list?",
+        "options": ["A. max()", "B. maximum()", "C. get_max()", "D. top()"],
+        "answer": "A. max()",
+        "difficulty": "medium"
+    },
+    {
+        "question": "How do you create a class in Python?",
+        "options": ["A. class MyClass:", "B. MyClass:", "C. def MyClass:", "D. create MyClass:"],
+        "answer": "A. class MyClass:",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What will the output of the following code be: print('abc' == 'ABC')?",
+        "options": ["A. True", "B. False", "C. None", "D. Error"],
+        "answer": "B. False",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What keyword is used to handle exceptions in Python?",
+        "options": ["A. handle", "B. catch", "C. except", "D. error"],
+        "answer": "C. except",
+        "difficulty": "medium"
+    },
+    {
+        "question": "How can you create a tuple in Python?",
+        "options": ["A. ()", "B. []", "C. {}", "D. All of the above"],
+        "answer": "A. ()",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What will the output of print(len('Python')) be?",
+        "options": ["A. 6", "B. 5", "C. 7", "D. Error"],
+        "answer": "B. 6",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What does the 'strip()' method do?",
+        "options": ["A. Removes whitespace", "B. Adds whitespace", "C. Returns length", "D. None of the above"],
+        "answer": "A. Removes whitespace",
+        "difficulty": "medium"
+    },
+
+    {
+        "question": "What will be the output of the following code: print([x for x in range(5) if x % 2 == 0])?",
+        "options": ["A. [0, 1, 2, 3, 4]", "B. [0, 2, 4]", "C. [1, 3]", "D. [2, 4]"],
+        "answer": "B. [0, 2, 4]",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the time complexity of accessing an element in a list by index in Python?",
+        "options": ["A. O(1)", "B. O(n)", "C. O(log n)", "D. O(n^2)"],
+        "answer": "A. O(1)",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What will be the output of the following code: print(sum([1, 2, 3, 4], 10))?",
+        "options": ["A. 10", "B. 20", "C. 30", "D. 1, 2, 3, 4, 10"],
+        "answer": "B. 20",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the output of the following code: print('abc'.join(['1', '2', '3']))?",
+        "options": ["A. 123", "B. 1abc2abc3", "C. 'abc'1'abc'2'abc'3", "D. Error"],
+        "answer": "B. 1abc2abc3",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which of the following will raise a ValueError in Python?",
+        "options": ["A. int('abc')", "B. int(1.5)", "C. float('1')", "D. str(123)"],
+        "answer": "A. int('abc')",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the purpose of the 'self' parameter in class methods?",
+        "options": ["A. It refers to the instance of the class", "B. It defines a class variable", "C. It is used for method overloading", "D. None of the above"],
+        "answer": "A. It refers to the instance of the class",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What will be the output of the following code: print(1 + 2 * 3 ** 2)?",
+        "options": ["A. 13", "B. 9", "C. 17", "D. Error"],
+        "answer": "A. 13",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which of the following methods will modify a list in place?",
+        "options": ["A. sorted()", "B. list.reverse()", "C. list.copy()", "D. list()"],
+        "answer": "B. list.reverse()",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What will be the output of the following code: print(type([]) is list)?",
+        "options": ["A. True", "B. False", "C. None", "D. Error"],
+        "answer": "A. True",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What does the 'zip()' function do in Python?",
+        "options": ["A. Combines multiple lists into a single list", "B. Returns a list of tuples", "C. Both A and B", "D. None of the above"],
+        "answer": "C. Both A and B",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What will be the output of the following code: print((lambda x: x * 2)(3) + (lambda y: y + 1)(4))?",
+        "options": ["A. 11", "B. 10", "C. 9", "D. 12"],
+        "answer": "A. 11",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which of the following keywords is used to define a generator function?",
+        "options": ["A. def", "B. yield", "C. return", "D. generator"],
+        "answer": "B. yield",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the output of the following code: print(len({x: x**2 for x in [1, 2, 2, 3]}))?",
+        "options": ["A. 2", "B. 3", "C. 4", "D. Error"],
+        "answer": "A. 3",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the output of the following code: print({x: x + 1 for x in range(3)})?",
+        "options": ["A. {0: 1, 1: 2, 2: 3}", "B. {1: 2, 2: 3, 3: 4}", "C. {0: 0, 1: 1, 2: 2}", "D. Error"],
+        "answer": "A. {0: 1, 1: 2, 2: 3}",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What will be the output of the following code: print(bool([]))?",
+        "options": ["A. True", "B. False", "C. None", "D. Error"],
+        "answer": "B. False",
+        "difficulty": "hard"
+    }
+    
+]
