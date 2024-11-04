@@ -12,7 +12,7 @@ This is a console-based quiz game that allows users to test their knowledge by a
 ## Project Structure
 - `assets/questions.json`: JSON file storing quiz questions and answers by difficulty level.
 - `assets/user_accounts.json`: JSON file for saving user account information and scores.
-- `main.py`: The main game script that includes the quiz logic and user management.
+- `quiz.py`: The main game script that includes the quiz logic and user management.
 
 ## Requirements
 - Python 3.x
